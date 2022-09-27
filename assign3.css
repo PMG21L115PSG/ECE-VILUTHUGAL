@@ -16,7 +16,7 @@ body{background-color: rgb(146, 223, 223);}
 }
 .c{
    width: 175px;
-   height: 200px;
+   height: 260px;
    float: left;
    margin: 20px;
 }
@@ -24,7 +24,7 @@ body{background-color: rgb(146, 223, 223);}
     color: brown;
     font-family: 'Times New Roman', Times, serif;
     border-style: dashed;
-    padding: 100px;
+    padding: 90px;
 }
 .f{
    font-family: 'Monotype Corsiva';
