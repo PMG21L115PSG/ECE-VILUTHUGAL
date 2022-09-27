@@ -1,0 +1,58 @@
+.a{
+    color: rgb(255, 68, 0);
+    font-family: 'Blaka Hollow', cursive;
+    text-align: left;
+}
+body{background-color: rgb(146, 223, 223);}
+.b{
+    color: blueviolet;
+    text-align: center;
+    margin: 0%;
+    border-style: double;
+    border-color: crimson;
+    border-radius: 59000px;
+    width: 300px;
+    margin-left: 25%;
+}
+.c{
+   width: 175px;
+   height: 270px;
+   float: left;
+   margin: 20px;
+}
+.d{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dashed;
+    padding: 75px;
+}
+.f{
+   font-family: 'Monotype Corsiva';
+}
+i{
+    font-size: xx-large;
+}
+.fa-instagram-square{
+color: rgb(226, 43, 192);
+}
+.fa-facebook-square{
+    color:blue
+}
+.fa-twitter-square{
+    color: rgb(0, 179, 255);
+}
+.fa-spotify{
+    color: rgb(21, 173, 21);
+}
+.fa-instagram-square:hover{
+    color: rgb(124, 33, 215);
+    }
+    .fa-facebook-square:hover{
+        color:rgb(228, 19, 19)
+    }
+    .fa-twitter-square:hover{
+        color: rgb(17, 0, 255);
+    }
+    .fa-spotify:hover{
+        color: rgb(5, 6, 5);
+    }
